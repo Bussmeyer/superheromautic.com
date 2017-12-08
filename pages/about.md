@@ -3,7 +3,6 @@ layout: page
 title: Über superhero.mautic
 permalink: /about/
 navlevel: header
-navtitle: Über superhero.mautic
 position: 999
 cover_url: /images/schafe.jpg
 ---
@@ -36,6 +35,6 @@ Enterpriselösungen auszugeben, einfach und zügig solide Ergebisse zu erreichen
 
 ## Über mich
 ![Thomas][ich]
-Arbeite seit 10 Jahren im Agentur- und Verlagsgeschäft. Erst als klassischer Projektmanager, 
-dann als techischer Projektmanager und seit 8 Jahren als Developer und Architekt für mittelgroße bis 
+Ich arbeite seit 10 Jahren im Agentur- und Verlagsgeschäft. Erst als klassischer Projektmanager, 
+dann als technischer Projektmanager und seit 8 Jahren als Developer und Architekt für mittelgroße bis 
 große Digitale Marketing Projekte.
