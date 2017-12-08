@@ -31,7 +31,7 @@ um mit dem Open Source Tool Mautic in die Marketing Automation einzusteigen.
 Ich schreibe einen Blog mit kurzen Anleitungen und Artikeln.
 Der Blog verzichtet auf Marketing Sprech und Argumentationen mit sehr beeindruckenden Statistiken. Ich 
 will dir helfen selbst Erfahrungen zu sammeln, weniger Fehler als ich zu machen, weniger Geld für vermeindliche
-Enterpriselösungen auszugeben, einfach und zügig solide Ergebisse zu erreichen.
+Enterpriselösungen auszugeben. Du sollst einfach starten und zügig solide Ergebnisse erreichen.
 
 ## Über mich
 ![Thomas][ich]
