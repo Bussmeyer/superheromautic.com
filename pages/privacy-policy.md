@@ -55,3 +55,13 @@ Es wird darauf hingewiesen, dass diese Website Google Analytics mit der Erweiter
 "_anonymizeIp()" verwendet und daher IP-Adressen nur gekürzt weiterverarbeitet werden, 
 um eine direkte Personenbeziehbarkeit auszuschließen.
 
+## Datenschutzerklärung für die Nutzung von GitHub Pages
+Diese Website wird auf Servern von Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA gehostet. 
+Beachten Sie daher auch die [GitHub Privacy Policy](https://help.github.com/articles/github-privacy-statement/).
+
+## Deine Rechte und Kontaktaufnahme
+Du hast ein Recht auf unentgeltliche Auskunft über Deine gespeicherten Daten sowie ggf. ein Recht auf 
+Berichtigung, Sperrung oder Löschung dieser Daten. Wenn Du weitere Fragen zur Erhebung, Verarbeitung oder 
+Nutzung Deiner personenbezogenen Daten hast, kontaktiere uns bitte. Gleiches gilt für Auskünfte, 
+Sperrung, Löschungs- und Berichtigungswünsche hinsichtlich Deiner personenbezogenen Daten sowie für 
+Widerrufe erteilter Einwilligungen. Die Kontaktadresse findest Du in unserem Impressum.
