@@ -2,8 +2,6 @@
 layout: page
 title: Impressum
 permalink: /imprint/
-navlevel: header
-position: 999
 ---
 Thomas Bußmeyer  
 Finowstraße 7  
