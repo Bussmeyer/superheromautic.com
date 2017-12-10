@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Werde Open Source Markting Automation Experte
+title: Superhero.Mautic
 email: thomas@superheromautic.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ich gebe dir verständliche und umfangreiche Informationen zum Thema Open Source Marketing Automation mit Mautic.
