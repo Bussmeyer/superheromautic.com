@@ -12,7 +12,7 @@ cover_url: /images/schafe.jpg
 ## Mein Ziel
 Mein Ziel ist es jedem leichten Zugang zu einem Marketing Automation Tool zu verschaffen.
 Ich bringe dir mit konkreten Beispielen und Lösungen das [Open Source Marketing Automation Tool Mautic](https://www.mautic.org/) näher.
-Du sollst mit den Tools arbeiten können und für deine Kunden nachvollziehbar Werte erzeugen.
+Du sollst mit dem Tool und seinem Möglichkeiten arbeiten können und für deine Kunden nachvollziehbare Werte erzeugen.
  
 * Ohne Marketing Sprech. 
 * Ohne viel Bling Bling. 
