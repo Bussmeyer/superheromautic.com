@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Minimum Setup: Welche Systeme brauchst du wirklich um anzufangen?"
+title:  "Mautic - ein neues Tool in deinem Open Source Marketing Baukasten"
 date:   2017-12-06 18:50:19 +0100
-categories: mautic
+categories: jekyll update
 ---
 Alle sprechen von Scrum und agil. Manche arbeiten wirklich so.
 Plant nicht zu fett. Plant Schritt für Schritt.
@@ -12,6 +12,7 @@ Das ist ein guter Ausgangspunkt. Gibt es schon Webtracking?
 Google Analytics? Sehr gut. Neewslettering? Mailchimp oder ähnliche Verdächtige? Passt.
 
 Ein nächster Schritt für deine Marketing Toolchain kann Mautic als Marketing Automation Tool sein.
+{:.side-note}
 
 Ich will dir hier nicht erzählen warum und wieso und keine bunten Bilder zeigen.
 
