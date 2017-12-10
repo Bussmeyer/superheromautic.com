@@ -28,7 +28,6 @@ lang: de
 markdown: kramdown
 theme: jekyll-theme-kagami
 plugins:
-  - jekyll-feed
 
 # Server Config options
 livereload: true
