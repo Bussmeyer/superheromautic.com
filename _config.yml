@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ich gebe dir verständliche und umfangreiche Informationen zum Thema Open Source Marketing Automation mit Mautic.
   Konkrete Beispiele für Kampagnen, technisches Setup, lokale Entwicklungsumgebung, Deploymentstrategien.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://superheromautic.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: bussmeyer/superheromautic.com
 google_analytics: UA-110981426-1
 
