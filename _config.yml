@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: superhero.mautic
+title: Werde Open Source Markting Automation Experte
 email: thomas@superheromautic.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ich gebe dir verständliche und umfangreiche Informationen zum Thema Open Source Marketing Automation mit Mautic.
+  Konkrete Beispiele für Kampagnen, technisches Setup, lokale Entwicklungsumgebung, Deploymentstrategien.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: bussmeyer/superheromautic.com
