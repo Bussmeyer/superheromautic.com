@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: superhero.mautic - Marketing Automation für Pragmatiker
+title: Marketing Automation für Pragmatiker
 navlevel: header
 navtitle: Startseite
 cover_url: /images/schafe.jpg
