@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Was ist Marketing Automation?"
+title:  "Erstes Kennenlernen - Was ist Marketing Automation?"
 date:   2017-12-08 18:50:19 +0100
 ---
 # Was sagen die anderen?
@@ -40,12 +40,18 @@ zu lassen. Noch schlimmer ist nur, dann schnellstmöglichst positive Ergebnisse 
 
 # Was solltest du tun?
 Du solltest vor allem einfach und schnell Erfahrungen sammeln. 
-Das kannst du mit Testaccount von einigen Anbietern.
+Das kannst du mit Testaccounts von einigen Anbietern:
+* [Marketo](https://www.marketo.com/software/marketing-automation/) (nur als geführte Demo)
+* [Salesforce](https://www.salesforce.com/products/marketing-cloud/overview/) (nur auf Anfrage) 
+* [Hubspot](https://www.hubspot.com/pricing/marketing?selectedPackage=free) (mit eingeschränktem Funktionsumfang)
 
-Ich nutze für mich und meine Kunden nicht immer aber oft [Mautic](https://mautic.org/). 
+Ich nutze für mich und meine Kunden meistens [Mautic](https://mautic.org/). 
 Du brauchst kaum Technologie, keine Lizenzen, kein
 Akquisehorror. Du kannst die Software auf fast jedem Server oder auch lokal installieren und so lange und so viel
-testen wie du willst.
+testen wie du willst. 
+
+*Du kannst [Mautic auch als Software as a Service](https://mautic.com) nutzen. 
+Hier allerdings auch nur mit Einschränkungen.*
 
 Als Entwickler kann du aber vor allem Anpassungen vornehmen, das System erweitern und zu seiner grundsätzlichen
 [Weiterentwicklung beitragen](https://github.com/mautic/mautic).
