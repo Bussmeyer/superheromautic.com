@@ -65,3 +65,10 @@ Berichtigung, Sperrung oder Löschung dieser Daten. Wenn Du weitere Fragen zur E
 Nutzung Deiner personenbezogenen Daten hast, kontaktiere uns bitte. Gleiches gilt für Auskünfte, 
 Sperrung, Löschungs- und Berichtigungswünsche hinsichtlich Deiner personenbezogenen Daten sowie für 
 Widerrufe erteilter Einwilligungen. Die Kontaktadresse findest Du in unserem Impressum.
+
+##Auskunft, Löschung, Sperrung
+Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, 
+deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, 
+Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene 
+Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
+
