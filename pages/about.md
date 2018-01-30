@@ -4,7 +4,6 @@ title: Über superhero.mautic
 permalink: /about/
 navlevel: header
 position: 999
-cover_url: /images/schafe.jpg
 ---
 [ich]: /images/thomas.jpg "Thomas"
 

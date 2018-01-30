@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Mautic ausprobieren - 3 Möglichkeiten"
-date:   2017-12-06 18:50:19 +0100
+date:   2017-12-14 12:50:19 +0100
 categories: mautic
-cover_url: /images/schafe.jpg
+cover_url: /images/skyline-fog.jpg
 ---
 Du willst Mautic ausprobieren? Es gibt drei Möglichkeiten:
 * [Mautic.com](https://mautic.com)
@@ -33,7 +33,7 @@ Keine Analysemöglichkeiten, da keinen Zugriff auf den Quellcode von Mautic
 
 Wenn du nicht nur den Funktionsumfang checken sondern auch selbst Templates oder Plugins entwicklen willst, dann reicht die SAAS-Lösung nicht.
 
-**Info:** *[Hier erkläre ich wie das Setup funktioniert.]({{ site.baseurl }}{% post_url 2017-12-06-minimum-marketing-toolbox %})*
+**Info:** *[Hier erkläre ich wie das Setup funktioniert.]
 
 Wie bei allen Entwicklungsaufgaben ist es auch bei Mautic essentiell eine lokale Entwicklungsumgebung aufzubauen.
 Eine gute Entwicklungsumgebung zeichnet sich dabei durch eine Anzahl an Dinge aus:
