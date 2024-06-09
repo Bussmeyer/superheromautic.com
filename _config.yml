@@ -26,7 +26,7 @@ lang: de
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-kagami
+theme: minima
 plugins:
 
 # Server Config options
